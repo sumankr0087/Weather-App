@@ -24,7 +24,6 @@ export default {
     };
   },
   mounted() {
-    this.we
     this.fetchCurrentLocationWeather();
   },
   methods: {
